@@ -45,5 +45,4 @@ function removeElementFromEndOfArray(array){
   array.pop()
   console.log(array);
   return array;
-
 }
