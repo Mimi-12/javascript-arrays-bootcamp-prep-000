@@ -4,7 +4,6 @@ function addElementToBeginningOfArray(array, element){
   array.unshift(element)
   console.log(array);
   return array;
-
 }
 function destructi[-velyAddElementToBeginningOfArray(array, element){
   array.unshift(element)
@@ -39,7 +38,6 @@ function  destructivelyRemoveElementFromEndOfArray(array){
   array.pop()
   console.log(array);
   return array;
-
 }
 function removeElementFromEndOfArray(array){
   array.pop()
